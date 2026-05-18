@@ -10,7 +10,7 @@
  /* Definición ya dada como ejemplo: */
 digitoHexa      [0-9a-fA-F]
 
- /* TODO 1 — Definir 'digito' como cualquier dígito decimal [1-9]        */
+ /* TODO 1 — Definir 'digito' como cualquier dígito decimal        */
 digito          [1-9]
 
  /* TODO 2 — Definir 'letra' como letra mayúscula, minúscula o guión bajo */
